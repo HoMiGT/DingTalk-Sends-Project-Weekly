@@ -32,7 +32,7 @@ Flask-Script==2.0.6
 Flask-Session==0.3.1
 Flask-SQLAlchemy==2.4.1
 Flask-WTF==0.14.2
-httplib2==0.16.0
+httplib2==0.18.0
 idna==2.8
 imgkit==1.0.2
 isodate==0.6.0
