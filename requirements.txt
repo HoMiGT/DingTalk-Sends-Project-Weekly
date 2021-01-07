@@ -39,7 +39,7 @@ isodate==0.6.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
 jmespath==0.9.4
-lxml==4.4.2
+lxml==4.6.2
 MarkupSafe==1.1.1
 multiprocess==0.70.9
 mysqlclient==1.4.4
