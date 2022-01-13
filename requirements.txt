@@ -52,7 +52,7 @@ odps==3.5.1
 oss2==2.8.0
 packaging==20.0
 pandas==0.25.1
-Pillow==7.0.0
+Pillow==9.0.0
 plotly==4.4.1
 prettytable==0.7.2
 prov==1.5.3
